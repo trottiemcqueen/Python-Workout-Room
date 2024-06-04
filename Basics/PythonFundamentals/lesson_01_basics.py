@@ -31,8 +31,8 @@ print(subtr)
 divi = 100 / 2
 print(divi)
 
-modround = 24 % 5
-print(modround)
+remainderof = 24 % 5
+print(remainderof)
 
 anotherdiv = 200 // 3
 print(anotherdiv)
@@ -59,3 +59,14 @@ print(meaning)
 meaning = round(meaning)
 print(meaning)
 
+# Comparison operators and if / else statements
+meanings = 42
+print('')
+
+if meanings > 10:
+  print('Right on!')
+else:
+  print('Not today')
+
+# Ternary Operator
+print('Right on!') if meanings > 10 else print('Not today aye')

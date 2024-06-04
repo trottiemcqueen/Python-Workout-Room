@@ -7,6 +7,7 @@
   <ul>
     <ol>Python Fundamentals
       <li>lesson_01_basics.py</li>
+      <li>data_types_lesson02.py</li>
       <li>Notes.html</li>
     </ol>
     <li>How to approach a problem(html)</li>
