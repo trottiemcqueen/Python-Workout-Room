@@ -37,4 +37,9 @@ I was just checking in.
                                            All good?
 '''
 print(multiline)
+print(multiline.replace("good", "ok"))
+print(len(multiline))
 
+print(len(multiline.strip()))
+print(len(multiline.lstrip()))
+print(len(multiline.rstrip()))
