@@ -1,3 +1,7 @@
+title = "menu".upper()
+print(title.center(20, "="))
+
+######
 # PYTHON WORKOUT ROOM
 
 <hr>
@@ -31,4 +35,5 @@
 
 ### Build / Playground
   <li>encryption.py</li>
+  <li>Menu.py</li>
   <li>path-finder.py</li>
