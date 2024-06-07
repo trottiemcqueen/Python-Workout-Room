@@ -60,4 +60,20 @@ print(" ")
 print(first[2])
 print(first[-1])
 print(first[0:])
+# Some methods return boolean data
+print(first.startswith("T"))
+print(first.endswith("N"))
+
+# Boolean data type
+myvalue = True
+x = bool(False) # constructor function
+print(type(x))
+print(isinstance(myvalue, bool))
+
+
+
+
+# Built-in functions for numbers
+
+print(abs(gpa))
 
