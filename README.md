@@ -13,6 +13,7 @@ print(title.center(20, "="))
       <li>lesson_01_basics.py</li>
       <li>data_types_lesson02.py</li>
       <li>Notes.html</li>
+      <li>user_inputs.py</li>
     </ol>
     <li>How to approach a problem(html)</li>
     <li>Two Sum Brute Force(py)</li>
@@ -37,3 +38,5 @@ print(title.center(20, "="))
   <li>encryption.py</li>
   <li>Menu.py</li>
   <li>path-finder.py</li>
+  <li>rockpapsci.py</li>
+
