@@ -1,11 +1,3 @@
-value = input("Please enter a value:\n")
-
-
-
-
-
-
-print(value)
 
 import sys
 import random
@@ -19,3 +11,20 @@ if player < 1 | player > 3:
     
 computerchoice = random.choice("123")
 computer = int(computerchoice)
+
+
+print("")
+print("You chose " + playerchoice + ".")
+print("Computer chose " + computerchoice + ".")
+print("")
+
+if player == 1 and computer == 3:
+    print("You win!")
+elif player == 2 and computer == 1:
+    print("You win!")
+elif player == 3 and computer == 2:
+    print("You win!")
+elif player == computer:
+    print("Tie game!")
+else:
+    print("Computer wins!")
