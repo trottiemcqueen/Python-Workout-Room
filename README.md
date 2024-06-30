@@ -12,6 +12,7 @@ print(title.center(20, "="))
     <ol>Python Fundamentals
       <li>lesson_01_basics.py</li>
       <li>data_types_lesson02.py</li>
+      <li>List and Tuples(py)</li>
       <li>Notes.html</li>
       <li>user_inputs.py</li>
     </ol>
