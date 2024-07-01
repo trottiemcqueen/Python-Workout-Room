@@ -16,3 +16,9 @@ print(users.index('Sara'))
 print(users[0:2])
 print(users[1:])
 print(users[-3:-1])
+
+print(len(data))
+
+users.append('Elsa')
+print(users)
+
